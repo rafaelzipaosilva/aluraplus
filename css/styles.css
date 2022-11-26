@@ -14,3 +14,12 @@ body {
   margin: 0;;
   padding: 0;
 }
+
+.principal {
+  background-image: url("../img/Background.png");
+  background-repeat: none;
+}
+
+.container {
+  height: 100vh;
+}
